@@ -1,0 +1,62 @@
+body{
+    background-color: #3b5a8c;
+}
+#div1{
+    text-align: center;
+    /* margin: 25%; */
+    background-color: white;
+    /* padding: 3%; */
+    /* padding-top: 10%; */
+    margin: 25vw;
+    padding: 3vw;
+    border: 10% solid white;
+    border-radius: 3%;
+}
+#button1{
+    background-color: blue;
+    font-size: larger;
+    color: white;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 30%;
+    padding-right: 30%;
+    border-top-left-radius: 16%;
+    border-top-right-radius: 16%;
+    border-bottom-right-radius: 16%;
+    border-bottom-left-radius: 16%;
+
+}
+#p1{
+    /* display: flex; */
+    display: flex;
+
+}
+#p2{
+    text-align:center;
+    margin-right: 16vw;
+    font-size: larger;
+    
+}
+#username{
+     /* border-bottom: black; */
+     border-top: black;
+    border-left: black;
+    border-right: black; 
+    /* background-color: aqua; */
+    padding: 7%;
+    border-bottom: 10% solid black;
+    font-size: larger;
+}
+#password{
+    /* border-bottom: black;
+    border-top: black;
+    border-left: black;
+    border-right: black; */
+    /* background-color: aqua; */
+    padding: 7%;
+    border-bottom: 10% solid red;
+    font-size: larger;
+    border-top: black;
+    border-left: black;
+    border-right: black;
+}
